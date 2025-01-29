@@ -1,4 +1,6 @@
-# Adyen POS Mobile SDK for iOS (Adyen Test environment)
+# Adyen POS Mobile SDK for iOS (TEST)
+
+> :warning: This repo applies to the ADYEN TEST ENVIRONMENT ONLY
 
 This is the home page of the Adyen POS Mobile SDK for iOS. Our mobile solution lets you accept in-person payments on an iPhone, or on a card reader that is paired with an iOS mobile device through Bluetooth.
 
