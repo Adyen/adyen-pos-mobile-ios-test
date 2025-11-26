@@ -353,6 +353,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SampleAppSwiftUI/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "This application requires Bluetooth to pair and connect with the card readers";
+				INFOPLIST_KEY_NSCameraUsageDescription = "This application requires Camera access to scan the barcode on the back of the card reader";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -381,6 +383,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SampleAppSwiftUI/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "This application requires Bluetooth to pair and connect with the card readers";
+				INFOPLIST_KEY_NSCameraUsageDescription = "This application requires Camera access to scan the barcode on the back of the card reader";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
