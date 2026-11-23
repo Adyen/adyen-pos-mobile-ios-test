@@ -13,13 +13,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdyenPOSTEST",
-            url: "https://pos-mobile-test.cdn.adyen.com/adyen-pos-ios/3.22.1/Test/AdyenPOS.xcframework.zip",
-            checksum: "38f851bd8bbf64adaaab7086bcfe1a7cd94710c44dd8bec9557dd78cc76f1400"
+            url: "https://pos-mobile-test.cdn.adyen.com/adyen-pos-ios/3.23.0/Test/AdyenPOS.xcframework.zip",
+            checksum: "125e94be6fd8b995b818ddd79bc2f25f195047ebf73703f601c6809a1b4cb060"
         ),
         .binaryTarget(
             name: "ADYPOSTEST",
-            url: "https://pos-mobile-test.cdn.adyen.com/adyen-pos-ios/3.22.1/Test/ADYPOS.xcframework.zip",
-            checksum: "5156fcc0fc3a2fbecc64f19020df810798e0f726759b95f5d622b4008088c725"
+            url: "https://pos-mobile-test.cdn.adyen.com/adyen-pos-ios/3.23.0/Test/ADYPOS.xcframework.zip",
+            checksum: "826dff67bb492818ab7a61c48f08bc75217c1ffbd4129c7d241989d90ad1ec0b"
         )
     ]
 )
